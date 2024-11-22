@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DentAI Caries Detection</string>
+    <string name="perform_object_detection">Detect</string>
+    <string name="input_image">Input Image</string>
+    <string name="output_image">Output Image</string>
+    <string name="textview1">Input image:</string>
+</resources>
