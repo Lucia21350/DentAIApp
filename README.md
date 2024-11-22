@@ -33,9 +33,3 @@ Clone this repository to get the sample application. Then open the project under
   Then select `Run -> Run app` and this will prompt the app to be built and installed on your device or emulator.
 
   Now you can try and test the object detection Android app by clicking the perform action button. Try to click the button multiple times to see the different results.
-
-#
-Here are some sample example screenshots of the app.
-
-<img width=20% src="images/Screenshot_1.png" alt="App Screenshot 1" />
-<img width=20% src="images/Screenshot_2.png" alt="App Screenshot 2" />
